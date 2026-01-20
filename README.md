@@ -18,14 +18,19 @@ Attribution: Proper attribution must be provided for all libraries and APIs used
 Each team must include the following in their own repository README:
 1. Project Information
 Team Name: [Your Team Name]
+
 Problem Statement: [Briefly describe the problem you are solving]
+
 Solution Overview: [Describe your prototype and how it works]
 
-3. Team Members (2-4 Members)
+3. Team Members (1-3 Members)
 Member 1 (Lead): [Name & Roll No]
+
 Member 2: [Name & Roll No]
+
 Member 3: [Name & Roll No]
-Member 4: [Name & Roll No]
+
+
 
 3. Setup & Installation
 [Provide step-by-step instructions to run your code]
